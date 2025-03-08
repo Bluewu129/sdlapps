@@ -9,4 +9,4 @@
 ## Submission Items
 
 * **JIRA Project Board URL: [News Management System-Admin](https://bluewu129.atlassian.net/jira/software/projects/NMSA/summary)**
-* **Requirement diagram: ![]([https://www.bejson.com/static/bejson/img/logo.png](https://github.com/Bluewu129/sdlapps/blob/main/doc/NEWS_MIS_SysML.png))**
+* **Requirement diagram: ![](https://github.com/Bluewu129/sdlapps/blob/main/doc/NEWS_MIS_SysML.png)**
