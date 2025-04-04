@@ -23,7 +23,7 @@
 ### DevOps
 - GitHub Actions for CI/CD pipeline
 - AWS EC2 for deployment（QUT Student account）
-
+ 
 ## Project Structure
 ```
 sdlapps/
